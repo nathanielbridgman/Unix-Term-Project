@@ -8,6 +8,8 @@ Proposal 1:
 
 1.	Project Description/Goals:
 -	Account management system for Non-Profit donors
+-	Finding and renting a reliable VSP
+-	Adding all new relevent informations into the README.md textfile 
 
 2.	Platform of Choice:
 -	Oracle VM Virtual Box running a Debian (64 bit) server

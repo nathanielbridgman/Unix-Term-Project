@@ -39,3 +39,4 @@ ii.	Cons: Desktop environment is messy, also we are not used to it because we ha
 6.	Team Composition:
 -	Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
+The IP address of the server is 149.56.12.193

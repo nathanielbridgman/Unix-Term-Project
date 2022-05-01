@@ -17,8 +17,8 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
       i.	Pros: Free, smooth upgrades, we are comfortable using it since we are most used to it
       ii.	Cons: Debian is not always up to date
 
-  -	Distro 2: Fedora
-    i.	Pros: Enhanced security, has automatic updates
+  -	Distro 2: Fedora\
+    i.	Pros: Enhanced security, has automatic updates\
     ii.	Cons: Desktop environment is messy, also we are not used to it because we have been using Debian
 
 *3.	Requirements:*

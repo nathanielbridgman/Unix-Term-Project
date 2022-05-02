@@ -7,9 +7,9 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 **Proposal:**
 
 *1.	Project Description/Goals:*
-  -	Account management system for Non-Profit donors
-  -	Finding and renting a reliable VSP
-  -	Adding all new relevent informations into the README.md textfile 
+  -	Create a static website
+  -	Finding and renting a reliable VPS
+  -	Creating a rudimentary money donation interface 
 
 *2.	Platform of Choice:*
   -	Oracle VM Virtual Box running a Debian (64 bit) server
@@ -22,10 +22,10 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
     ii.	Cons: Desktop environment is messy, also we are not used to it because we have been using Debian
 
 *3.	Requirements:*
-  -	There will be multiple accounts that the owners can access to view their donation balances and deposit more money. There will be different kinds of accounts with     different permissions, such as donor, volunteer, and admin accounts.
+  -	There will be an account that the donor can access to view their donation balances and deposit more money. There will also be a viewing account which will only         be able to view the donation balance, and an admin account that will hold all permissions.
   -	Any questions the users have will be answered by some programmed automatic responses, as well as the admin account will have access to ps and top.
   -	The accounts will be protected by passwords and each account type (user) will have different file permissions.
-  -	Various automated scripts include: Messages when money is donated, once a goal is reached rewards will be handed out to the donors, the main donation pot will be     updated and displayed automatically after every donation, and display donor name, date and time of a donation.                    
+  -	Various automated scripts include: Messages when money is donated, once a goal is reached rewards will be handed out to the donors, the main donation pot will be       updated and displayed automatically after every donation, and display donor name, date and time of a donation.                    
 
 *4.	Major Technical Solutions Compared:*
   -	We are aiming to imitate a sort of GoFundMe approach to our project, with donations and goals.

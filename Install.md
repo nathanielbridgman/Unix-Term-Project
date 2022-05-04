@@ -8,7 +8,7 @@ $ sudo adduser username
 
 *Implementing security measures:*
 
-$ sudo apt-get upgrade
-$ sudo systemctl restart sshd
-$ sudo apt-get install fail2ban
+$ sudo apt-get upgrade\
+$ sudo systemctl restart sshd\
+$ sudo apt-get install fail2ban\
 $ sudo /etc/init.d/fail2ban/ restart

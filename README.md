@@ -10,7 +10,7 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
   -	Create a static website
   -	Finding and renting a reliable VPS
   -	Creating a rudimentary money donation interface 
-
+ 
 *2.	Platform of Choice:*
   -	Oracle VM Virtual Box running a Debian (64 bit) server
   -	Distro 1: Debian Live\

@@ -22,7 +22,7 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
     ii.	Cons: Desktop environment is messy, also we are not used to it because we have been using Debian
 
 *3.	Requirements:*
-  -	There will be an account that the donor can access to view their donation balances and deposit more money. There will also be a viewing account which will only         be able to view the donation balance, and an admin account that will hold all permissions.
+  -	There will be an option to donate money, as well as an option to send the money. The user account will have the permissions to execute the donation script but not     the sending script, and an admin account that will hold all permissions.
   -	Any questions the users have will be answered by some programmed automatic responses, as well as the admin account will have access to ps and top.
   -	The accounts will be protected by passwords and each account type (user) will have different file permissions.
   -	Various automated scripts include: Messages when money is donated, once a goal is reached rewards will be handed out to the donors, the main donation pot will be       updated and displayed automatically after every donation, and display donor name, date and time of a donation.                    

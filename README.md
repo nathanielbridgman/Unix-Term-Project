@@ -5,9 +5,7 @@ Semester 3\
 Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
 - [Project Description](#project-description)
-- [Distribution Options](#distribution-options)
-- [VPS Options](#vps-options)
-- [Web Server Options](#web-server-options)
+- [Platform of Choice](#platform-of-choice)
 - [Requirements](#requirements)
 - [Major Technical Solutions Compared](#major-technical-solutions-compared)
 - [Timeline](#timeline)
@@ -22,17 +20,21 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
   
   -	Debian Live\
       i.	Pros:\
-        - Free\
+        - Popular, which means there is a very large commnuity of active Debian users.\
+        - User-Friendly\
+        - Well structured and maintained\
         - Smooth upgrades\
         - Familiarity
         
       ii.	Cons:\
-        - Debian is not always up to date
+        - Debian is not always up to date\
+        - Doesn't provide as much customization as other distributions
 
   -	Fedora\
       i.	Pros:\
         - Enhanced security\
-        - Atomatic updates
+        - Atomatic updates\
+        - The distribution is completely open source, which means anyone from the community can collaboratively contribute to development
       
       ii.	Cons:\
         - Desktop environment is messy\
@@ -47,43 +49,36 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
         - Limited support\
         - Desktop ads
 ## *VPS Options:*
-  - OVH Cloud:\
-    i. Pros:\
-      - Low cost\
-      - SSH root access
+ -	OVH\
+      i.	Pros:\
+        - Cheap entry fee, which allowed us to compromise efficiently.\
+        - Simple and easy setup process\
+        - Known for secure and strong network stegnth and capacity, 
+          although we didn't need that much for our project, it was a better choice to be safe.\
+        - The provided VPS instructions gave us a helpful guide to configure our VPS without any issues.\
+        
+      ii.	Cons:\
+        - Although it was cheap, the OVH VPS still costed our group a total of 10$\
+        - Doesn't provide as much customization as other distributions
 
-    ii. Cons:\
-      - Poor user support\
-      - Messy UI
-
-  - Microsoft Azure:\
-    i. Pros:\
-      - Regular security updates
-
-    ii. Cons:\
-      - More expensive than other options
-
-  - Digitalocean:\
-    i. Pros:\
-      - Good security\
-      - Fast load times
-
-    ii. Cons:\
-      - Not good for new users\
-      - Hard to create and maintain a website
-
-## *Web Server Options:*
-  - Nginx:\
-    i. Pros: 
-      - Requires less memory
-      - Good at handling static content
-
-    ii. Cons:\
-      - Less community support
-
-  Apache:\
-    i. Pros:\
-    
+  -	Kamatera\
+      i.	Pros:\
+        - Enhanced security\
+        - Atomatic updates\
+        - The distribution is completely open source, which means anyone from the community can collaboratively contribute to development
+      
+      ii.	Cons:\
+        - Desktop environment is messy\
+        - Less familiartity
+  - Bluehost\
+      i.  Pros:\
+        - Minimal hardware requirements\
+        - Simple installation process\
+        - Fast Updates
+        
+      ii. Cons:\
+        - Limited support\
+        - Desktop ads
 ## *Requirements:*
   -	There will be an option to donate money, as well as an option to send the money. The user account will have the permissions to execute the donation script but not     the sending script, and an admin account that will hold all permissions.
   -	Any questions the users have will be answered by some programmed automatic responses, as well as the admin account will have access to ps and top.

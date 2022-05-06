@@ -4,11 +4,11 @@ Unix
 Semester 3
 Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
-- [Project Description/Goals:](#Project-Description/Goals:)
+- [Project Description:](#Project-Description:)
 
 **Proposal:**
 
-## *1.	Project Description/Goals:*
+## *1.	Project Description:*
   -	Create a static website
   -	Finding and renting a reliable VPS
   -	Creating a rudimentary money donation interface 

@@ -17,22 +17,24 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
   -	Creating a rudimentary money donation interface 
  
 ## *Platform of Choice:*
-  -	Oracle VM Virtual Box running a Debian (64 bit) server
+  
   -	Distro 1: Debian Live\
-      i.	Pros:
-        - Free \
+      i.	Pros:\
+        - Free\
         - Smooth upgrades\
-        - Familiarity\
-      ii.	Cons:
+        - Familiarity
+        
+      ii.	Cons:\
         - Debian is not always up to date
 
   -	Distro 2: Fedora\
-    i.	Pros: \
-      - Enhanced security \
-      - Atomatic updates \
-    ii.	Cons: \
-      - Desktop environment is messy \
-      - Less familiartity
+      i.	Pros:\
+        - Enhanced security\
+        - Atomatic updates
+      
+      ii.	Cons:\
+        - Desktop environment is messy\
+        - Less familiartity
 
 ## *Requirements:*
   -	There will be an option to donate money, as well as an option to send the money. The user account will have the permissions to execute the donation script but not     the sending script, and an admin account that will hold all permissions.

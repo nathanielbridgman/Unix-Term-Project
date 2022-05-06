@@ -8,7 +8,7 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
 **Proposal:**
 
-## Project Description:
+## *Project Description:*
   -	Create a static website
   -	Finding and renting a reliable VPS
   -	Creating a rudimentary money donation interface 

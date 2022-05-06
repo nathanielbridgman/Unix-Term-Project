@@ -23,12 +23,16 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
         - Free \
         - Smooth upgrades\
         - Familiarity\
-      ii.	Cons: 
+      ii.	Cons:\
         - Debian is not always up to date
 
   -	Distro 2: Fedora\
-    i.	Pros: Enhanced security, has automatic updates\
-    ii.	Cons: Desktop environment is messy, also we are not used to it because we have been using Debian
+    i.	Pros:\
+      - Enhanced security\
+      - Atomatic updates\
+    ii.	Cons:\
+      - Desktop environment is messy\
+      - Less familiartity
 
 ## *Requirements:*
   -	There will be an option to donate money, as well as an option to send the money. The user account will have the permissions to execute the donation script but not     the sending script, and an admin account that will hold all permissions.

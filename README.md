@@ -87,6 +87,11 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
   -	Week 3: Implementing the scripts inside of the server, as well as running tests and debugging the project.
   -	Week 4: Presentation preparation.
 
+## *Bash File Proposal:*
+-We wanted to implement a bash file that would let the Admin of the program know the log history of all the users and the time that they openened the website(html file) 
+-We were unable to implement it for today's presentation, but we are on our way to building a successful bash script.
+
+
 ## *Team Composition:*
   -	Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 

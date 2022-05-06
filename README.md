@@ -5,7 +5,9 @@ Semester 3\
 Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
 - [Project Description](#project-description)
-- [Platform of Choice](#platform-of-choice)
+- [Distribution Options](#distribution-options)
+- [VPS Options](#vps-options)
+- [Web Server Options](#web-server-options)
 - [Requirements](#requirements)
 - [Major Technical Solutions Compared](#major-technical-solutions-compared)
 - [Timeline](#timeline)
@@ -69,6 +71,9 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
     ii. Cons:\
       - Not good for new users\
       - Hard to create and maintain a website
+
+## *Web Server Options:*
+
 ## *Requirements:*
   -	There will be an option to donate money, as well as an option to send the money. The user account will have the permissions to execute the donation script but not     the sending script, and an admin account that will hold all permissions.
   -	Any questions the users have will be answered by some programmed automatic responses, as well as the admin account will have access to ps and top.

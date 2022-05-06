@@ -73,7 +73,17 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
       - Hard to create and maintain a website
 
 ## *Web Server Options:*
+  - Nginx:\
+    i. Pros: 
+      - Requires less memory
+      - Good at handling static content
 
+    ii. Cons:\
+      - Less community support
+
+  Apache:\
+    i. Pros:\
+    
 ## *Requirements:*
   -	There will be an option to donate money, as well as an option to send the money. The user account will have the permissions to execute the donation script but not     the sending script, and an admin account that will hold all permissions.
   -	Any questions the users have will be answered by some programmed automatic responses, as well as the admin account will have access to ps and top.

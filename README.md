@@ -16,9 +16,9 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
   -	Finding and renting a reliable VPS
   -	Creating a rudimentary money donation interface 
  
-## *Platform of Choice:*
+## *Distribution Options:*
   
-  -	Distro 1: Debian Live\
+  -	Debian Live\
       i.	Pros:\
         - Free\
         - Smooth upgrades\
@@ -27,7 +27,7 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
       ii.	Cons:\
         - Debian is not always up to date
 
-  -	Distro 2: Fedora\
+  -	Fedora\
       i.	Pros:\
         - Enhanced security\
         - Atomatic updates
@@ -35,11 +35,17 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
       ii.	Cons:\
         - Desktop environment is messy\
         - Less familiartity
-  - Distro 3: Ubuntu\
+  - Ubuntu\
       i.  Pros:\
-        - Minimal hardware requirements
-        - 
-
+        - Minimal hardware requirements\
+        - Simple installation process\
+        - Fast Updates
+        
+      ii. Cons:\
+        - Limited support\
+        - Desktop ads
+## *VPS Options:*
+  -
 ## *Requirements:*
   -	There will be an option to donate money, as well as an option to send the money. The user account will have the permissions to execute the donation script but not     the sending script, and an admin account that will hold all permissions.
   -	Any questions the users have will be answered by some programmed automatic responses, as well as the admin account will have access to ps and top.

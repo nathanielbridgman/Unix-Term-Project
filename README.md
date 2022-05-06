@@ -19,19 +19,19 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 ## *Platform of Choice:*
   -	Oracle VM Virtual Box running a Debian (64 bit) server
   -	Distro 1: Debian Live\
-      i.	Pros:\
+      i.	Pros:
         - Free \
         - Smooth upgrades\
         - Familiarity\
-      ii.	Cons:\
+      ii.	Cons:
         - Debian is not always up to date
 
   -	Distro 2: Fedora\
-    i.	Pros:\
-      - Enhanced security\
-      - Atomatic updates\
-    ii.	Cons:\
-      - Desktop environment is messy\
+    i.	Pros: \
+      - Enhanced security \
+      - Atomatic updates \
+    ii.	Cons: \
+      - Desktop environment is messy \
       - Less familiartity
 
 ## *Requirements:*

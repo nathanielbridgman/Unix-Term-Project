@@ -37,7 +37,8 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
         - Less familiartity
   - Distro 3: Ubuntu\
       i.  Pros:\
-        -
+        - Minimal hardware requirements
+        - 
 
 ## *Requirements:*
   -	There will be an option to donate money, as well as an option to send the money. The user account will have the permissions to execute the donation script but not     the sending script, and an admin account that will hold all permissions.

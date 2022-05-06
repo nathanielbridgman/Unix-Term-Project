@@ -1,7 +1,7 @@
 # Unix-Term-Project
-Unix
-420-321-VA  sect. 00002
-Semester 3
+Unix\
+420-321-VA  sect. 00002\
+Semester 3\
 Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
 - [Project Description:](#project-description)

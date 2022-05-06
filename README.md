@@ -4,9 +4,12 @@ Unix\
 Semester 3\
 Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
-- [Project Description:](#project-description)
-
-**Proposal:**
+- [Project Description](#project-description)
+- [Platform of Choice](#platform-of-choice)
+- [Requirements](#requirements)
+- [Major Technical Solutions Compared](#major-technical-solutions-compared)
+- [Timeline](#timeline)
+- [Team Composition](#team-composition)
 
 ## *Project Description:*
   -	Create a static website

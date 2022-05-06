@@ -19,9 +19,9 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 ## *Platform of Choice:*
   -	Oracle VM Virtual Box running a Debian (64 bit) server
   -	Distro 1: Debian Live\
-      i.	Pros: 
-        - Free 
-        - Smooth upgrades
+      i.	Pros:\
+        - Free \
+        - Smooth upgrades\
         - Familiarity\
       ii.	Cons: 
         - Debian is not always up to date

@@ -5,6 +5,9 @@ Semester 3
 Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
 - [Project Description/Goals](#Project-Description/Goals)
+- [Platform of Choice](#Platform-of-Choice)
+- [Project Description/Goals](#Project-Description/Goals)
+- [Project Description/Goals](#Project-Description/Goals)
 
 **Proposal:**
 

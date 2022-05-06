@@ -12,6 +12,8 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 - [Team Composition](#team-composition)
 
 ## *Project Description:*
+    Axel Cuzzo was a sucessful entrepeneure who after a tragic accident involving one of his houses decided to host a donation website in which local comunities could donate money to Charities that they belived in.  
+  - The problem that our project solves is that it offeres the Admin of the VPS to know which users opens the html file and at what time.    
   -	Create a static website
   -	Finding and renting a reliable VPS
   -	Creating a rudimentary money donation interface 
@@ -63,22 +65,13 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
   -	Kamatera\
       i.	Pros:\
-        - Enhanced security\
-        - Atomatic updates\
-        - The distribution is completely open source, which means anyone from the community can collaboratively contribute to development
+      - has a free 30 trial in which you dont have to pay
+      - it has a good customer service so if we had any problems we could ask them
       
       ii.	Cons:\
-        - Desktop environment is messy\
-        - Less familiartity
-  - Bluehost\
-      i.  Pros:\
-        - Minimal hardware requirements\
-        - Simple installation process\
-        - Fast Updates
-        
-      ii. Cons:\
-        - Limited support\
-        - Desktop ads
+      - it has a confusing instalation process 
+      
+
 ## *Requirements:*
   -	There will be an option to donate money, as well as an option to send the money. The user account will have the permissions to execute the donation script but not     the sending script, and an admin account that will hold all permissions.
   -	Any questions the users have will be answered by some programmed automatic responses, as well as the admin account will have access to ps and top.

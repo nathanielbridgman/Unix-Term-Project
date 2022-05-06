@@ -4,6 +4,24 @@ Unix
 Semester 3
 Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
+- [Project Description/Goals](#Project-Description/Goals)
+  - [VPS installation](#vps-installation)
+  - [SSH Key](#ssh-key)
+  - [Connecting to the remote server](#connecting-to-the-remote-server)
+  - [Upgrade & Update](#upgrade--update)
+  - [Create a new user](#create-a-new-user)
+  - [Security](#security)
+  - [Installing Web server & Hosting](#installing-web-server--hosting)
+    - [Nginx configuration file](#nginx-configuration-file)
+    - [Unlink the default configuration file and link the new one](#unlink-the-default-configuration-file-and-link-the-new-one)
+  - [Firewall configuration](#firewall-configuration)
+  - [Domain name](#domain-name)
+  - [SSL configuration](#ssl-configuration)
+  - [Website (static website) & Script deployment REMOTELY](#website-static-website--script-deployment-remotely)
+  - [Bash script (REMOTELY)](#bash-script-remotely)
+  - [SCRIPT for Automate deployment to the web server](#script-for-automate-deployment-to-the-web-server)
+  - [Other way and the easiest way to perform auto deployment](#other-way-and-the-easiest-way-to-perform-auto-deployment)
+  - [Q&A](#qa)
 **Proposal:**
 
 ## *1.	Project Description/Goals:*

@@ -4,7 +4,7 @@ Unix
 Semester 3
 Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
-- [Project Description:](#project-description:)
+- [Project Description:](#project-description)
 
 **Proposal:**
 

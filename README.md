@@ -8,12 +8,12 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
 **Proposal:**
 
-## *1.	Project Description:*
+## Project Description:
   -	Create a static website
   -	Finding and renting a reliable VPS
   -	Creating a rudimentary money donation interface 
  
-## *2.	Platform of Choice:*
+## Platform of Choice:
   -	Oracle VM Virtual Box running a Debian (64 bit) server
   -	Distro 1: Debian Live\
       i.	Pros: Free, smooth upgrades, we are comfortable using it since we are most used to it\
@@ -23,7 +23,7 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
     i.	Pros: Enhanced security, has automatic updates\
     ii.	Cons: Desktop environment is messy, also we are not used to it because we have been using Debian
 
-## *3.	Requirements:*
+## Requirements:
   -	There will be an option to donate money, as well as an option to send the money. The user account will have the permissions to execute the donation script but not     the sending script, and an admin account that will hold all permissions.
   -	Any questions the users have will be answered by some programmed automatic responses, as well as the admin account will have access to ps and top.
   -	The accounts will be protected by passwords and each account type (user) will have different file permissions.

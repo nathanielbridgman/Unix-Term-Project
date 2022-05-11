@@ -5,10 +5,12 @@ Semester 3\
 Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
 - [Project Description](#project-description)
-- [Platform of Choice](#platform-of-choice)
+- [Distribution Options](#distribution-options)
+- [VPS Options](#vps-options)
 - [Requirements](#requirements)
 - [Major Technical Solutions Compared](#major-technical-solutions-compared)
 - [Timeline](#timeline)
+- [Bash File Proposal](#bash-file-proposal)
 - [Team Composition](#team-composition)
 
 ## *Project Description:*

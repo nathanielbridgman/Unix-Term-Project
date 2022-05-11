@@ -64,6 +64,35 @@
   2. To link the new file you need to run the command : sudo ln -s /etc/nginx/sites-available/149.56.12.193
   3. After you are done changing the default to make sure that your code is running like its supposed to run this code: 'sudo nginx -t'. 
 
+
+ #Bash File code
+ 
+ <pre>
+#!/bin/bash
+
+n="Natan"
+nn="Nathaniel"
+k="Kyle"
+echo -n "Please enter who you are? "
+read Name
+echo You have signed is as $Name
+if [[ "$Name" == "$n" ]]; then
+         cd /var/www/html;
+         ls -l --time=atime; 
+elif [[ "$Name" == "$nn" ]]; then 
+        cd /var/www/html;
+        ls -l --time=atime;
+elif [[ "$Name" == "$k" ]]; then
+        cd /var/www/html;
+        ls -l --time=atime;
+else
+        echo "This user is not allowed to access the bash file."
+fi
+</pre>
+
+As discussed in the README, our bash file's purpose is to check when and who checked our webstie, \
+though it is restricted to our admin users.
+
   # Implementing extra security measures:
   
   **Code**

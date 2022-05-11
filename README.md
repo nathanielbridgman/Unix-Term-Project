@@ -89,6 +89,9 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 ## *Bash File Proposal:*
 -We wanted to implement a bash file that would let the users of the primary group to view the last user that accessed the website's HTML and CSS files, as well as the date and time they were accessed.
 
+## *Linking our peronsal Web pages:*
+-We implemented html code and to allow us to visit the web pages of our team members that were previously created. This function displays our ability to undertand the links between html and our live server.\
+
 ## *Team Composition:*
   -	Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 

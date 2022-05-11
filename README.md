@@ -13,7 +13,7 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
 ## *Project Description:*
     Axel Cuzzo was a sucessful entrepeneure who after a tragic accident involving one of his houses decided to host a donation website in which local comunities could donate money to Charities that they belived in.  
-  - The problem that our project solves is that it offeres the Admin of the VPS to know which users opens the html file and at what time.    
+  - The problem that our project solves is that it offeres the Admin of the VPS to know which user opens the html file and at what time.    
   -	Create a static website
   -	Finding and renting a reliable VPS
   -	Creating a rudimentary money donation interface 
@@ -73,10 +73,9 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
       
 
 ## *Requirements:*
-  -	There will be an option to donate money, as well as an option to send the money. The user account will have the permissions to execute the donation script but not     the sending script, and an admin account that will hold all permissions.
-  -	Any questions the users have will be answered by some programmed automatic responses, as well as the admin account will have access to ps and top.
-  -	The accounts will be protected by passwords and each account type (user) will have different file permissions.
-  -	Various automated scripts include: Messages when money is donated, once a goal is reached rewards will be handed out to the donors, the main donation pot will be       updated and displayed automatically after every donation, and display donor name, date and time of a donation.                    
+  -	There will be an option to donate money on the website.
+  -	The problem we are trying to solve is protecting the webiste files, as well as being able to view who accessed the files at what time.
+  -	The way we will solve this problem is by changing the file permissions of the website files so that only the members of the primary group can access them. To view     who used the files, we wrote a batch file that verifies the user's name before showing the date and time when the file was last opened, as well as who opened it.               
 
 ## *Major Technical Solutions Compared:*
   -	We are aiming to imitate a sort of GoFundMe approach to our project, with donations and goals.
@@ -88,9 +87,7 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
   -	Week 4: Presentation preparation.
 
 ## *Bash File Proposal:*
--We wanted to implement a bash file that would let the Admin of the program know the log history of all the users and the time that they openened the website(html file) 
--We were unable to implement it for today's presentation, but we are on our way to building a successful bash script.
-
+-We wanted to implement a bash file that would let the users of the primary group to view the last user that accessed the website's HTML and CSS files, as well as the date and time they were accessed.
 
 ## *Team Composition:*
   -	Natan Lellouche, Kyle Husbands, Nathaniel Bridgman

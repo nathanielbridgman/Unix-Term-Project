@@ -96,3 +96,4 @@ Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
   -	Natan Lellouche, Kyle Husbands, Nathaniel Bridgman
 
 The IP address of the server is 149.56.12.193
+The website link is vps-3c73529a.vps.ovh.ca .
